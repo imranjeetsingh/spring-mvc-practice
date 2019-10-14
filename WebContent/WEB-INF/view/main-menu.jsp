@@ -5,7 +5,7 @@
 
 	<h2>Hello Spring MVC!!!</h2>
 	
-<a href="student/showForm">Form</a>
+<a href="customer/showForm">Form</a>
 
 </body>
 
